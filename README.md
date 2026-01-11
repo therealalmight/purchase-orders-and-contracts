@@ -8,8 +8,6 @@ Both header information and detail item information are included in this dataset
 
 It should be noted header information will be duplicated on all detail items. No detail item information will be displayed on the header record.
 
-***In October of 2017, the City-Parish switched to a new system used to track PO/Contracts. This data contains all PO/Contracts entered in or after October 2017. For prior year data, please see the Legacy Purchase Order dataset https://data.brla.gov/Government/Legacy-Purchase-Orders/54bn-2sqf
-
 source dataset metadata:
 | Column Name                 | Description                                                                                                                                                | API Field Name                | Data Type          |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------ |
