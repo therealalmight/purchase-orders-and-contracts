@@ -8,6 +8,8 @@ Both header information and detail item information are included in this dataset
 
 It should be noted header information will be duplicated on all detail items. No detail item information will be displayed on the header record.
 
+Note: For data before 14/09/2017 refers Legacy_Purchase_Orders_20260112.csv. After 14/09/2017 they implemented an updated system which updates data per day or per few days. Data till 12/01/2026 is stored in Purchase_Orders_and_Contracts.csv. Post today we will increment data periodically daily through API.
+
 source dataset metadata:
 | Column Name                 | Description                                                                                                                                                | API Field Name                | Data Type          |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------ |
