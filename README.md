@@ -67,3 +67,9 @@ source dataset metadata:
 | DEPARTMENT NUMBER           | Number of the department which the PO/Contract is for                                                                                                      | dept_num                      | Number             |
 | DEPARTMENT NAME             | Department name which the PO/Contract is for                                                                                                               | dept_name                     | Text               |
 
+
+## WorkFlow Diagram:
+<img width="1305" height="291" alt="image" src="https://github.com/user-attachments/assets/247e8f3a-2ee0-4b6b-9a46-30233f9f5136" />
+
+
+
