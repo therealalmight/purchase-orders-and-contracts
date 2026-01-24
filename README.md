@@ -69,10 +69,12 @@ source dataset metadata:
 
 
 ## WorkFlow Diagram:
-<img width="1305" height="291" alt="image" src="https://github.com/user-attachments/assets/247e8f3a-2ee0-4b6b-9a46-30233f9f5136" />
+<img width="1304" height="445" alt="image" src="https://github.com/user-attachments/assets/de59ae62-0441-4428-b2d3-d9979c65da16" />
+
 
 ## Semantic Model or Dimensional Data Model
-<img width="508" height="542" alt="image" src="https://github.com/user-attachments/assets/582f9172-b2f1-45ac-abbe-46e897231527" />
+<img width="789" height="522" alt="image" src="https://github.com/user-attachments/assets/930cd7d2-ea4e-4c06-b6a6-9a5e3bce2b0c" />
+
 
 
 
